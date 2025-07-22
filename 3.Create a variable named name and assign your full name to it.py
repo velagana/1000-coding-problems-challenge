@@ -1,0 +1,2 @@
+name = 'mosh'
+print(name)
