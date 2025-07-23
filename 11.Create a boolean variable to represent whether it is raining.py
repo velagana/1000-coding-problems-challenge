@@ -1,0 +1,1 @@
+if_raining = True
